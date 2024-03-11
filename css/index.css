@@ -66,8 +66,8 @@ footer {
     background-color: rgb(40, 77, 122);
     color: #fffdfd;
     text-align: center;
+    padding: 5px 0;
     position: fixed;
-    padding: 5px;
     bottom: 0;
     width: 100%;
 }
