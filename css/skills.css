@@ -91,11 +91,10 @@ nav.navbar {
 }
 
 footer {
-    background-color: #094683;
-    color: #fff;
+    background-color: rgb(40, 77, 122);
+    color: #fffdfd;
     text-align: center;
-    padding: 10px 0;
-    position: fixed;
+    padding: 5px;
     bottom: 0;
     width: 100%;
 }
