@@ -91,12 +91,11 @@ nav.navbar {
 }
 
 footer {
-    background-color: #455c72;
+    background-color: #1e4988;
     color: #fff;
     text-align: center;
     padding: 8px 0;
     position: relative;
     bottom: 0;
-    width: 1000%;
+    width: 100%;
 }
-
