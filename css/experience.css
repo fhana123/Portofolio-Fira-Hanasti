@@ -117,11 +117,11 @@ nav.navbar {
 }
 
 footer {
-    background-color: #003366;
+    background-color: #1b4c7e;
     color: #fff;
     text-align: center;
     padding: 10px 0;
-    position: fixed;
+    position: relative;
     bottom: 0;
     width: 100%;
 }
